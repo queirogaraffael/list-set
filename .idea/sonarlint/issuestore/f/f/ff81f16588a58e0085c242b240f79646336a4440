@@ -1,0 +1,12 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8þÏ¥÷š2J$5c3ddeea-b0e3-4ea1-b011-f45498343160
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å°±øÿÿÿÿ8þÏ¥÷š2J$4fed0044-e612-4fc3-a8e9-694dfc03eea9
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8þÏ¥÷š2J$06658dd0-7593-437d-9b4e-66465007bb14
+r	java:S106"+Replace this use of System.out by a logger.(øÂýÿÿÿÿ8Ð¥÷š2J$0d453142-86a7-4a0b-a407-d97c6ed2e1f7
+m	java:S106"+Replace this use of System.out by a logger.(ñòõÚ8Ð¥÷š2J$42b5e67d-0782-4bd0-ad14-451af38fd2ef
+m	java:S106"+Replace this use of System.out by a logger.(—€¾Ã8Ð¥÷š2J$1344302c-7b78-4285-ba8d-3feda6c55144
+m	java:S106""+Replace this use of System.out by a logger.(î±õ¢8œÚ§÷š2J$2be9f0c6-38ff-4d2a-b818-428d57a3b4e9
+m	java:S106$"+Replace this use of System.out by a logger.(ã‘û¯8ƒŸ¨÷š2J$10e6fabb-3292-471d-b660-becc16e0af9b
+†
+java:S1128">Remove this unused import 'java.awt.desktop.ScreenSleepEvent'.(¹Õ–Êùÿÿÿÿ8‚³©÷š2J$20ddb819-446d-45b5-b923-ac6fc30596f7

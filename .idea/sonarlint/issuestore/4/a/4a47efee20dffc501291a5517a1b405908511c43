@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁŞû†şÿÿÿÿ8åâûøš2J$2c106338-1fd4-4e60-a7bd-f70cf3fb0daa
+™	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ã€ùš2J$e6855d45-824f-496f-938b-eb8b4476d254
+™	java:S127+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ã€ùš2J$c5f969e2-f0fe-431c-97b5-e4982adcd5a8
+
+java:S18541"<Remove this useless assignment to local variable "colecao2".(“Ü¤ƒ8®ªœùš2J$4b1a2a77-4ba3-4f38-bca3-dd4223b1e9b9
+„
+java:S18540"<Remove this useless assignment to local variable "colecao1".(Õ™·°úÿÿÿÿ8®ªœùš2J$36c040a3-c6ea-48d7-ae3d-3c2d9808d037
+r	java:S106"+Replace this use of System.out by a logger.(Ã•Á¼ÿÿÿÿÿ8¬Ã€ùš2J$3abc4740-af54-4a8f-9e8d-9a3e0367c7cc
+m	java:S106"+Replace this use of System.out by a logger.(İ§¡8¬Ã€ùš2J$f9e60df0-2476-4339-b0a7-174b0695cabf
+r	java:S106"+Replace this use of System.out by a logger.(¸ªŞıüÿÿÿÿ8¬Ã€ùš2J$b14d2456-a20a-4a2a-a6de-e2261e043c41
+r	java:S106 "+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¬Ã€ùš2J$870fffc2-6543-44d6-bcdb-4ac7e332f4fb
+r	java:S106$"+Replace this use of System.out by a logger.(Õ¹¤×úÿÿÿÿ8¬Ã€ùš2J$46798db5-bb43-488d-9eb5-e7ac530232f2
+r	java:S106)"+Replace this use of System.out by a logger.(¸ªŞıüÿÿÿÿ8¬Ã€ùš2J$8e7efae4-c153-4ad1-a26e-2d50afb07f38
+u
+java:S14810"-Remove this unused "colecao1" local variable.(Õ™·°úÿÿÿÿ8µªœùš2J$aec4a6b9-9e9c-422e-9a99-aa71ce9d8b5d
+p
+java:S14811"-Remove this unused "colecao2" local variable.(“Ü¤ƒ8µªœùš2J$4ee4f523-e4e9-4319-be4c-fe4f5075623f

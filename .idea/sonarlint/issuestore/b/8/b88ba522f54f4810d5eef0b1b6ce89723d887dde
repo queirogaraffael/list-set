@@ -1,0 +1,9 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü¼‰Õ8¹ ²øš2J$112cb6cf-f732-4e80-b398-7b11fc519b2a
+™	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8» ²øš2J$0a11616d-0d35-4925-a46d-299af80e1aaa
+r	java:S106"+Replace this use of System.out by a logger.(¢™—òùÿÿÿÿ8Ã ²øš2J$8d33ebc3-80a5-4d32-815a-a8ade56204db
+r	java:S106"+Replace this use of System.out by a logger.(¸ªŞıüÿÿÿÿ8Ã ²øš2J$bca23359-f36e-4ac6-b2fe-56d941c01a6d
+m	java:S106!"+Replace this use of System.out by a logger.(Ù¤è8Ä ²øš2J$0dff54c0-78b7-4486-b3fd-48e1bbd170c4
+m	java:S106#"+Replace this use of System.out by a logger.(™¢Â¹8Å ²øš2J$55742f4a-9634-4a28-b718-b7a95b7566a9
+r	java:S106&"+Replace this use of System.out by a logger.(¿§Œ÷ùÿÿÿÿ8ù²øš2J$a1e01fbc-9826-4343-97e0-01812a0ba33f
+m	java:S106("+Replace this use of System.out by a logger.(™¢Â¹8ù²øš2J$1013af3d-ef88-400c-b244-a3a4dde47f4c
